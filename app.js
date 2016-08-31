@@ -10,4 +10,5 @@ bot.on("message", function(message)
     )
 });
 
-bot.loginWithToken("");
+bot.loginWithToken("MjIwNTc1ODQ0Njg5NTEwNDAw.CqiVnQ.kgzzVsnBI9EYgEP2LWwh5Z4edC0
+");
